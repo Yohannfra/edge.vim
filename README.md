@@ -9,7 +9,7 @@ This plugin provides file detection and syntax highlighting support for [Edge](h
 ## Using vim-plug
 
 ```vim
-Plug 'Yohannfra/edge.vim
+Plug 'Yohannfra/edge.vim'
 ```
 
 # Screenshots
