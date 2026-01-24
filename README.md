@@ -12,9 +12,11 @@ This plugin provides file detection and syntax highlighting support for [Edge](h
 Plug 'Yohannfra/edge.vim'
 ```
 
-# Screenshots
+# Screenshot
 
-The theme used in the screenshots is [Gruvbox dark](https://github.com/ellisonleao/gruvbox.nvim)
+![demo screenshot](.github/screenshot-demo.png)
+
+The theme used in the screenshot is [Gruvbox dark](https://github.com/ellisonleao/gruvbox.nvim)
 
 # License
 
