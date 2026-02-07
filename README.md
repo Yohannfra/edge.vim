@@ -18,6 +18,13 @@ Plug 'Yohannfra/edge.vim'
 
 The theme used in the screenshot is [Gruvbox dark](https://github.com/ellisonleao/gruvbox.nvim)
 
+# Features
+
+- Syntax highlighting for Edge template files
+- File type detection
+- Comment support (`{{-- --}}`)
+- `gf` support: press `gf` on a template name to jump to the corresponding `.edge` file. The plugin automatically adds `resources/views`, `resources/views/components/**`, and `resources/views/pages/**` to the path, and appends `.edge` to suffixes.
+
 # License
 
 This plugin is licensed under the [MIT license](./LICENSE).
